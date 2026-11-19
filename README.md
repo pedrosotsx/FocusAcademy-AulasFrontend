@@ -1,4 +1,4 @@
-# 🚀 Focus Academy — Aulas de Front-End (React.js + Tailwind CSS)
+# Focus Academy — Aulas de Front-End (React.js + Tailwind CSS)
 
 Repositório dedicado aos códigos, exercícios e projetos desenvolvidos durante as aulas práticas de **Desenvolvimento Front-End** na **Focus Academy**. O objetivo é guiar iniciantes desde os primeiros passos com React até a construção de interfaces modernas, componentizadas e responsivas.
 
